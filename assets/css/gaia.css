@@ -1101,6 +1101,9 @@ a,
 .filter.filter-color-red:before {
   background: #de6168;
 }
+.filter.filter-color-brown:before {
+  background: #775F40;
+}
 .filter.filter-gradient-black:before {
   background: #1f1c2c;
   /* Old browsers */
